@@ -13,7 +13,7 @@
 
     const PLAYER_SEARCH_URL = '/search/';
     const PLAYER_PLUS_URL = '/plus/player/';
-    const DEBUG = true;
+    const DEBUG = false;
 
     const debug = str => {
         if(DEBUG) {
